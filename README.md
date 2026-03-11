@@ -1,18 +1,9 @@
 # 👋 Hi, I'm Sahil Kadam
 
-💻 **BSc Computer Science Student | Aspiring Full Stack Developer**
-
-I am passionate about **Web Development and building real-world projects**.
-Currently focused on learning **Full Stack MERN Development** and improving my **problem-solving skills**.
-
----
-
-## 🚀 About Me
-
 * 🎓 BSc Computer Science student from India
 * 🌱 Currently learning **Full Stack MERN Development**
 * 📚 Exploring **Data Structures and Algorithms**
-* 💡 Interested in **JavaScript, Web Development, and Software Engineering**
+* 💡 Interested in **JavaScript, Python, Web Development, and Software Engineering**
 * 🎯 Goal: Become a **skilled Full Stack Developer and build impactful tech solutions**
 
 ---
@@ -31,6 +22,7 @@ Currently focused on learning **Full Stack MERN Development** and improving my *
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 
 ### 🌐 Web Development
@@ -38,6 +30,7 @@ Currently focused on learning **Full Stack MERN Development** and improving my *
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge\&logo=ejs\&logoColor=black)
 
 ### ⚙️ Backend & Database
 
@@ -46,11 +39,12 @@ Currently focused on learning **Full Stack MERN Development** and improving my *
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### 🧰 Tools
+### 🚀 Deployment & Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%23000000.svg?style=for-the-badge\&logo=railway\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge\&logo=render\&logoColor=black)
 
 ---
 
